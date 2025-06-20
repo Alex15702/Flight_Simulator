@@ -1,0 +1,1 @@
+Invece di utilizzare il modello 3DOF scelgo di utilizzare il modello 6DOF realizzato per il cessna per ottenere i dati relativi a questo velivolo. deltae diventa variabile di stato.

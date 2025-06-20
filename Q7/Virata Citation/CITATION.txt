@@ -1,0 +1,24 @@
+--------------------------------------------------------------------
+CESSNA CITATION I
+--------------------------------------------------------------------
+
+A/C MAIN GEOMETRIC DATA
+278.5     Wing planform area, S, (ft^2)
+47.08     Wing span, b, (ft)
+6.75     Mean aerodynamic chord, mac, (ft)
+
+MASS AND INERTIA
+400     Mass, mass (slug)
+18400       Inertia, [Ixx]_B (slug ft^2)
+141000     Inertia, [Iyy]_B (slug ft^2)
+175956     Inertia, [Izz]_B (slug ft^2)
+0         Inertia, [Ixy]_B (slug ft^2)
+0         Inertia, [Ixz]_B (slug ft^2)
+0         Inertia, [Iyz]_B (slug ft^2)
+
+PROPULSION DATA
+4400     Max Thrust available at sea level, T_max_SL (lbf)
+0.000     Orthogonal distance thrust axis wrt x-body axis, e_T (ft)
+0.00      Setting angle wrt x-body axis, mu_T (rad)
+
+--------------------------------------------------------------------

@@ -1,0 +1,9 @@
+function [C_yaw] = Cyaw(alpha_B,C_L, beta_der,p)
+
+global aeroDat
+
+cyAlpha=interp1(aeroDat{1,3}.alpha,aeroDat{1,3}.cypcl,alpha_B)*C_L;
+cyB=aeroDat{1,3}.cyb*beta_der;
+cyp=interp1(aeroDat{1,3}.alpha,aeroDat{1,3}.cyp,alpha_B)*C_L;
+
+end
