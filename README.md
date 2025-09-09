@@ -143,4 +143,4 @@ When adding new aircraft models or simulation capabilities:
 
 ## License
 
-This project appears to be academic coursework for "Dinamica e Simulazione di Volo" (Flight Dynamics and Simulation) course.
+This project is an academic coursework for "Dinamica e Simulazione di Volo" (Flight Dynamics and Simulation) course.
